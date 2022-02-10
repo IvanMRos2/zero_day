@@ -1,2 +1,2 @@
-Hola Mundo x2
-Por fin!
+# Git
+<p> In this proyect I'm creating and getting to set up my Git and GitHub account. Then, creating a new directory called 0x03-git in the repository zero-day, after that I created the directories bash, c, js and the empty files required in each directory respectively. Then creating another branch to isolate the work from the main code, after that we can merge the changed made in both brances, and at the end I created a new file and define a rule to never push files that start with "~". </p>
